@@ -1,0 +1,82 @@
+My name is Duane Horton
+I am a Senior Software Developer with 10+ years of experience building enterprise grade backend systems, distributed services, AI driven applications, and full-stack platforms. Expert in Python, Node.js, C#, .NET, cloud native architectures, microservices, SQL/NoSQL optimization, and modern JavaScript frameworks. Proven success delivering LLM apps, RAG systems, vector search, cloud registries, and high-performance backend services. Strong in DevOps, CI/CD, system design, and scalable engineering practices.
+
+
+
+⭐ Horizon AI & Cloud Services (2023.11 – Present)
+
+Senior Software Developer | Full Stack & AI Development 
+
+Skills:
+Python, Node.js, React, Next.js, TypeScript, FastAPI, Express.js, LLMs, RAG Pipelines, AI Chatbots, NLP, Embeddings, TensorFlow, PyTorch, Machine Learning Engineering, Vector Databases (FAISS, Pinecone, Weaviate), Microservices, REST APIs, GraphQL, WebSockets, Cloud Architecture, AWS Lambda, AWS S3, Azure Cognitive Services, GCP Vertex AI, Docker, Kubernetes, Redis, PostgreSQL, MySQL, MongoDB, SQL Optimization, CI/CD Pipelines, GitHub Actions, Terraform, Linux, Nginx, Monzo, ETL, MLOps, API Security, JWT, OAuth2
+
+⭐ Gulf Coast Software Labs (2020 – 2023)
+
+Sr. Android & Mobile Developer | Full Stack Developer
+
+Skills:
+Android (Kotlin/Java), iOS (Swift), Flutter, React Native, Dart, Android Jetpack, SwiftUI, UIKit, Mobile Architecture (MVVM, Clean Architecture), Firebase, SQLite, Room Database, Local Caching, Push Notifications, In-App Purchases, App Store Connect, Google Play Console, Node.js, Express.js, TypeScript, React, Redux, REST APIs, GraphQL, Realtime Communication, WebSockets, Bluetooth Integration, Mobile Performance Optimization, Responsive UI, Mobile CI/CD (Fastlane, Bitrise), Git, Cloud Integration, App Security & Encryption, Crashlytics, A/B Testing
+
+⭐ Lone Star Digital Systems (2017 – 2020)
+
+AI Expert | Backend Development
+
+Skills:
+Python, Node.js, Express, AI Chatbots, NLP (spaCy, NLTK), Machine Learning Models, TensorFlow, PyTorch, Sci-kit Learn, Data Mining, Predictive Analytics, Classification Models, Recommendation Systems, Entity Extraction, OCR Systems, Web Scraping, Automation Bots, Microservices Architecture, Docker, Kubernetes Basics, API Development, GraphQL, Webhooks, Monzo, ETL Processing, PostgreSQL, MySQL, MongoDB, Redis, Cloud Services (AWS/GCP/Azure), React, Angular, Vue.js, System Optimization, Logging & Monitoring, Testing (PyTest, Mocha)
+
+⭐ BayouTech Solutions (2014 – 2017)
+
+Junior Full Stack Developer | Frontend Expert
+
+Skills:
+C#/.NET, ASP.NET MVC, Java, JavaScript, Node.js, Express.js, HTML5, CSS3, SASS, AngularJS, Angular 2+, Nuxt.js, Vue.js, jQuery, Responsive Design, WordPress, Shopify, CMS Development, PHP Basics, MySQL, MongoDB, SQL Server, REST API Integration, UI/UX Implementation, Cross-Browser Compatibility, Git, Agile, Basic DevOps, Website Optimization, SEO Fundamentals, Web Security Basics, API Testing (Postman), Bootstrap, Tailwind CSS
+
+-------------------
+
+
+Senior Software Developer | Full Stack & AI Developer
+
+Horizon AI & Cloud Services · Full-timeHorizon AI & Cloud Services · Full-time
+
+Nov 2023 - Present · 2 yrs 2 mosNov 2023 to Present · 2 yrs 2 mos
+
+United States · RemoteUnited States · Remote
+At Horizon AI & Cloud Services, I lead the development of enterprise software using Python, Node.js, React, and Next.js while focusing on scalable backend architecture and clean engineering practices. I design and implement advanced AI solutions such as LLM applications, RAG pipelines, vector search systems, and automated AI workflows. I also architect and optimize SQL and NoSQL databases, ensuring high-performance querying, Monzo, and reliable cloud-based storage.
+
+
+
+
+Senior .NET, C# Developer | Backend & Cloud Specialist
+Tesla · Full-timeTesla · Full-time
+Mar 2020 - Oct 2023 · 3 yrs 8 mosMar 2020 to Oct 2023 · 3 yrs 8 mos
+Fremont, California, United States · RemoteFremont, California, United States · Remote
+Experienced .NET C# Full-Stack Developer with a strong background in enterprise systems, cloud services, and database integration. Led the customization and deployment of Auda Enterprise Gold, a distributed vehicle-claims platform, adapting it for the Latin American market using ASP.NET, ASMX Web Services, Oracle, VistaDB, and .NET Framework 2.0/3.5. Contributed to the MySQL Connector/NET team by designing new features, fixing core functionality, and performing unit testing across .NET Framework 2.0–4.0. At Microsoft, built high-scale components for the Microsoft Container Registry (mcr.microsoft.com) and expanded Azure Container Registry into sovereign cloud environments. Skilled in C#, .NET, Azure, Docker, Kubernetes, MSBuild, PowerShell, and Linux, delivering robust backend services and end-to-end full-stack solutions.
+
+
+
+
+Python & Node Expert | Backend Development
+StarTechPC.com · Full-timeStarTechPC.com · Full-time
+Mar 2017 - Nov 2019 · 2 yrs 9 mosMar 2017 to Nov 2019 · 2 yrs 9 mos
+Austin, Texas, United States · On-siteAustin, Texas, United States · On-site
+At StarTechPC, I designed scalable backend architectures using Python, Node.js, Express, and microservice patterns. I developed AI features including NLP-based chatbots, classification models, recommendation engines, and automated data-processing pipelines. I connected these backend services with React, Vue, and Angular interfaces to deliver intelligent, production-ready full-stack applications.
+
+
+
+
+Junior Full Stack Developer | Frontend Expert
+Paycom · Full-timePaycom · Full-time
+Jan 2014 - Dec 2016 · 3 yrsJan 2014 to Dec 2016 · 3 yrs
+Oklahoma City, Oklahoma, United States · RemoteOklahoma City, Oklahoma, United States · Remote
+At Paycom, I worked on full-stack development using C#/.NET, Java, JavaScript, Node.js, and MongoDB while contributing to various client and in-house systems. I built modern frontend interfaces using Angular and Nuxt, and also developed websites and components with WordPress and Shopify. I focused heavily on UI/UX improvements, performance optimization, and delivering clean and efficient front-end features.
+
+
+
+University of Houston-Clear Lake
+Master of Science (M.S.), Computer Science, Computer ScienceMaster of Science (M.S.), Computer Science, Computer Science
+Aug 2010 - May 2013
+
+
+University of Houston-Clear Lake
+Bachelor of Science (B.S.), Computer Software EngineeringBachelor of Science (B.S.), Computer Software Engineering
+Aug 2006 - May 2010
